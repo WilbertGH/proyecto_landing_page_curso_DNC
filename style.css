@@ -1,5 +1,6 @@
 *{
     font-family: "Inter";
+    margin: 0px;
 }
 
 #logo{
@@ -15,13 +16,13 @@
 #parrafo{
     margin-left: 175px;
     margin-top: 30px;
-    margin-bottom: 75px;
     padding-bottom: 80px;
 }
 
 #Menú_Superior{
     color: antiquewhite;
     background-image: url(imagenes/fondo_de_la_pagina.svg);
+
 }
 
 #Menú_Informativo{
